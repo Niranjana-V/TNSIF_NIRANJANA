@@ -1,4 +1,6 @@
-package com.tnsif.dayfive;
+package com.tnsif.dayfive.Interace.ExtendingInterface;
+
+
 
 public class ExtendingInterface implements ChildInterface {
 	// Override ChildInterface method
